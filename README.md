@@ -20,7 +20,7 @@ git clone https://github.com/your-username/graph_explorer_api.git
 2. Install the required Python libraries:
 ```bash
 pip install requests json pandas plotly matplotlib wordcloud nltk
-
+```
 ## Usage
 
 1. Obtain a Facebook Graph API access token from the Facebook Developers website.
